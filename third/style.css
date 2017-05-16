@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+}
+.gray {
+  background-color: lightgray;
+  height: 15vh;
+  padding: 10px;
+}
+.box{
+  background-color: lightblue;
+  height: 100px;
+  width: 100px;
+  margin-left: 10px;
+  margin-top: 0px;
+}
+.white {
+  background-color: white;
+  height: 10vh;
+  padding: 40px;
+}
+.blue{
+  background-color: lightblue;
+  height: 20vh;
+  margin: 0;
+}
+.teal {
+  background-color: teal;
+  height: 20vh;
+}
+.green {
+  background-color: lightgreen;
+  height: 20vh;
+}
+.yellow {
+  background-color: yellow;
+  height: 20vh;
+}
